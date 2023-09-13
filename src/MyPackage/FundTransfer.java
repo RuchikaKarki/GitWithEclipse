@@ -3,7 +3,8 @@ package MyPackage;
 public class FundTransfer {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("This is a test case for Fund Transfer");
 
 	}
 
